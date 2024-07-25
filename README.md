@@ -23,7 +23,7 @@ git clone https://github.com/5G-MAG/rt-libflute.git
 
 ### Step 2: Build setup
 ````
-cd libflute/
+cd rt-libflute/
 mkdir build && cd build
 cmake -GNinja ..
 ````
